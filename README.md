@@ -5,4 +5,4 @@
 
 Пример выхода:
 
-![alt text]https://github.com/padobrik/sas_bioschool_challenge/blob/main/result_screen.png)
+![]https://github.com/padobrik/sas_bioschool_challenge/blob/main/result_screen.png)
