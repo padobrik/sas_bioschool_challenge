@@ -1,0 +1,25 @@
+Table: Summary of Efficacy Parameter 1 by Visit. Intention-to-Treat population 
+Visit                           Treatment Group 1 (N=16)                 Treatment Group 2 (N=15)        
+ Statistics                                                                                              
+Visit 01                                                                                                 
+ n                              5                                        4                               
+ Mean                           48.6                                     25.7                            
+ Standart Deviation             26.0                                     22.42                           
+ Minimum                        18                                       4                               
+ Maximum                        89                                       63                              
+                                                                                                         
+Visit 02                                                                                                 
+ n                              5                                        5                               
+ Mean                           35.1                                     63.2                            
+ Standart Deviation             24.26                                    14.92                           
+ Minimum                        10                                       47                              
+ Maximum                        75                                       84                              
+                                                                                                         
+Visit 03                                                                                                 
+ n                              5                                        5                               
+ Mean                           33.7                                     58.9                            
+ Standart Deviation             23.55                                    32.34                           
+ Minimum                        3                                        5                               
+ Maximum                        62                                       90                              
+                                                                                                         
+N: Number of subjects in the population and treatment group.                                             
